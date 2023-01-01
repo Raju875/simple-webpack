@@ -21,8 +21,7 @@ This is very basic webpack config repo.
             filename: "bundle.js",
         },
 
-    };
-    ...
+    }; ...
 
 7.  Create necessary html, js, css and others files and write some code.
 8.  Run `npm run build` and build.js file will create inside dist/webpack directory.
