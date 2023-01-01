@@ -1,0 +1,25 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "This is very basic webpack config repo.",
+  "main": "index.js",
+  "type": "module.cjs",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raju875/simple-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raju875/simple-webpack/issues"
+  },
+  "homepage": "https://github.com/Raju875/simple-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
